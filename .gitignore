@@ -4,3 +4,16 @@
 *.jar
 *.war
 *.ear
+
+# Maven #
+target/
+
+# Eclipse #
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/eclipse
+
