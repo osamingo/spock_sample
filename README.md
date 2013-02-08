@@ -1,7 +1,8 @@
 # Spock sample
+===============
 
 ## これはなに?
-Javaで書かれたコードをSpockで呼び出してテストしたサンプル
+Javaで書かれたコードをSpockで呼び出してテストしたサンプルです
 
 ## Links
 [Spock - the enterprise ready specification framework](http://spockframework.org)  
